@@ -1,0 +1,5 @@
+Argentina=2
+Brazil=1
+Maldives=1
+Mexico=2
+Norfolk Island=1
